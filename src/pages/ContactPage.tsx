@@ -56,7 +56,7 @@ const ContactPage = () => {
                       <Clock className="h-6 w-6 text-vaidya-primary mr-3 flex-shrink-0 mt-1" />
                       <div>
                         <h3 className="font-bold text-lg mb-1">Working Hours</h3>
-                        <p className="text-base sm:text-lg">Every day: 9:00 AM – 6:00 PM</p>
+                        <p className="text-base sm:text-lg">Mon - Sat: 10:00 AM – 4:00 PM</p>
                       </div>
                     </li>
                     <li className="flex items-start">
@@ -64,7 +64,7 @@ const ContactPage = () => {
                       <div>
                         <h3 className="font-bold text-lg mb-1">Phone</h3>
                         <p className="text-base sm:text-lg">
-                          <a href="tel:+918943757522" className="hover:text-vaidya-primary transition-colors">📞 9074023960</a>
+                          <a href="tel:+919074023960" className="hover:text-vaidya-primary transition-colors">📞 90740 23960</a>
                         </p>
                         <p className="text-base sm:text-lg">
                           <a href="tel:+917907658682" className="hover:text-vaidya-primary transition-colors">📞 79076 58682</a>
