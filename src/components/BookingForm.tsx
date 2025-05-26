@@ -170,7 +170,7 @@ const BookingForm = () => {
           label="Preferred Date & Time" 
           placeholder="Select date and time"
           type="datetime-local"
-          description="We're open from 9:00 AM to 6:00 PM every day"
+          description="We're open from 10:00 AM to 4:00 PM Mon - Sat"
         />
         
         <TextAreaField 
